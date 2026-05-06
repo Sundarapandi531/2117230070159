@@ -1,7 +1,5 @@
 # Notification Priority System
 
-## Project Overview
-This project was developed as part of the Afford Medical Technologies assessment.
 
 The system processes notifications and prioritises them based on:
 - Notification type
